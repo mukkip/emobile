@@ -1,0 +1,7 @@
+{
+    "appService.zipIgnorePattern": [
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/1606d051-a88b-4c5d-9128-8c4c9dd88652/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/mobilemarket",
+    "appService.deploySubpath": ""
+}

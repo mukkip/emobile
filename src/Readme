@@ -1,0 +1,8 @@
+components 
+
+Navbar
+    ProductList
+        product
+    Details
+    Cart
+    Default - page not found
