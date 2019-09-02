@@ -176,9 +176,11 @@ openModal= id => {
 
     this.setState(()=>{
 
+      
         return {
+            
             cart:[...tempCart],
-            products:[tempProducts],
+            products:[...tempProducts],
         }
     },
         ()=>{
